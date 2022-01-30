@@ -1,5 +1,7 @@
 body{
     background-image: url('pp.jfif');
+    width: 1600px;
+    height: 900px;
 }
 .footer {
   position: fixed;
