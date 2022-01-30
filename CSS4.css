@@ -1,0 +1,227 @@
+body{
+    background-image: url('ppp.jpg');
+    width: 1600px;
+  height: 900px;
+}
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(223, 102, 176);
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-size: x-large;
+}
+  .home{
+    
+    margin-left: 900px;
+    margin-top: auto;
+    background-color: rgb(12, 172, 184);
+    border-radius: 6px;
+    cursor: pointer;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+  border: black;
+}
+.home:hover {
+    background-color: white;
+    color: black;
+  }
+.about {
+    
+    margin-top: auto;
+    background-color: rgb(41, 77, 238);
+    border-radius: 6px;
+    cursor: pointer;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    color: white;
+    border: black;
+    
+}
+.about:hover {
+    background-color: white;
+    color: black;
+  }
+.academic {
+    margin-top: auto;
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: purple;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    color: white;
+    border: black;
+
+}
+.academic:hover {
+    background-color: white;
+    color: black;
+  }
+.contact {
+    margin-top: auto;
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: rgb(185, 66, 86);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    color: white;
+    border: black;
+
+}
+.contact:hover {
+    background-color: white;
+    color: black;
+  }
+.box {
+    background-color: rgb(25, 138, 167);
+    border-style: dotted;
+    width: 500px;
+    height: 40px;
+    text-align: center;
+}
+
+  .ex{
+background-color: transparent;
+    color: blue;
+    font-size: xx-large;
+  text-align: center;
+  }
+
+  .lnk {
+    margin-top: auto;
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: yellow;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    color: black;
+    border: black;
+
+}
+.lnk:hover {
+    background-color: white;
+    color: black;
+  }
+  .fb {
+    margin-top: auto;
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: yellow;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    color: black;
+    border: black;
+
+}
+.fb:hover {
+    background-color: white;
+    color: black;
+  }
+  .is {
+    margin-top: auto;
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: yellow;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    color: black;
+    border: black;
+
+}
+.is:hover {
+    background-color: white;
+    color: black;
+  }
+  .yt {
+    margin-top: auto;
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: yellow;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    color: black;
+    border: black;
+
+}
+.yt:hover {
+    background-color: white;
+    color: black;
+  }
+  .ml {
+    margin-top: auto;
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: yellow;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    color: black;
+    border: black;
+
+}
+.ml:hover {
+    background-color: white;
+    color: black;
+  }
+  h1{
+      background-color:white;
+      margin-left: 500px;
+      margin-right: 500px;
+      border-radius: 15px;
+  }
+  
